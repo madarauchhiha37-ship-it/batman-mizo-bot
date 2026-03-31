@@ -1,6 +1,7 @@
 {
-  "name": "batman-bot",
+  "name": "batman-mizo-bot",
   "version": "1.0.0",
+  "description": "Batman Mizo WhatsApp Bot",
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
