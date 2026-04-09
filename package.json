@@ -1,0 +1,18 @@
+{
+  "name": "batman-mizo-bot",
+  "version": "1.0.0",
+  "description": "Batman Mizo WhatsApp Bot",
+  "main": "1.Bit.js",
+  "scripts": {
+    "start": "node 1.Bit.js"
+  },
+  "engines": {
+    "node": "20.x"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "axios": "^1.6.0",
+    "pino": "^8.0.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
